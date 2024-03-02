@@ -36,4 +36,4 @@ for x in open("xd","r").readlines():
 print(data)
 ```
 6. Подставляем наш txt файл в написанный код и получаем флаг:
-7. > `CODEBY{fl4g_fr0m_pc4p}`.
+7. > `CODEBY{N3_p0mnu_fl4g}`.
